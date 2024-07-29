@@ -9,6 +9,7 @@
     background: url('images/background.jpg');
     background-size:cover;
     position:relative;
+   
 }
 /* text css above hero image*/
 .hero_title {
@@ -36,7 +37,8 @@
 }
 /* about section image css */
 .imageAboutPage {
-    width: 100%;
+    width: 70%;
+    border: 5px solid #555;
 }
 
 /* services section css */
